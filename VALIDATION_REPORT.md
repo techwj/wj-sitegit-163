@@ -1,0 +1,88 @@
+# Validation Report - flower-arrangement-basics
+
+Generated: 2026-06-04T11:36:44.315730
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Flower Arrangement Basics
+- ✓ Article word count OK: Beginner Flower Arrangement Basics: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Flower Arrangement Basics
+- ✓ Article word count OK: Beginner Flower Arrangement Basics Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Flower Arrangement Basics
+- ✓ Article word count OK: Beginner Flower Arrangement Basics in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Flower Arrangement Basics
+- ✓ Article word count OK: Common Mistakes in Beginner Flower Arrangement Basics
+- ✓ Article word count OK: Beginner Flower Arrangement Basics for Beginners
+- ✓ Article word count OK: Advanced Beginner Flower Arrangement Basics Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Flower Arrangement Basics
+- ✓ Article word count OK: Advanced Flower Arrangement Basics: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Flower Arrangement Basics
+- ✓ Article word count OK: Advanced Flower Arrangement Basics Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Flower Arrangement Basics
+- ✓ Article word count OK: Advanced Flower Arrangement Basics in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Flower Arrangement Basics
+- ✓ Article word count OK: Common Mistakes in Advanced Flower Arrangement Basics
+- ✓ Article word count OK: Advanced Flower Arrangement Basics for Beginners
+- ✓ Article word count OK: Advanced Advanced Flower Arrangement Basics Techniques
+- ✓ Article word count OK: The Ultimate Guide to Flower Arrangement Basics Tips
+- ✓ Article word count OK: Flower Arrangement Basics Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Flower Arrangement Basics Tips
+- ✓ Article word count OK: Flower Arrangement Basics Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Flower Arrangement Basics Tips
+- ✓ Article word count OK: Flower Arrangement Basics Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Flower Arrangement Basics Tips
+- ✓ Article word count OK: Common Mistakes in Flower Arrangement Basics Tips
+- ✓ Article word count OK: Flower Arrangement Basics Tips for Beginners
+- ✓ Article word count OK: Advanced Flower Arrangement Basics Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Flower Arrangement Basics History
+- ✓ Article word count OK: Flower Arrangement Basics History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Flower Arrangement Basics History
+- ✓ Article word count OK: Flower Arrangement Basics History Tips and Best Practices
+- ✓ Article word count OK: The History of Flower Arrangement Basics History
+- ✓ Article word count OK: Flower Arrangement Basics History in 2026: Current Trends
+- ✓ Article word count OK: Future of Flower Arrangement Basics History
+- ✓ Article word count OK: Common Mistakes in Flower Arrangement Basics History
+- ✓ Article word count OK: Flower Arrangement Basics History for Beginners
+- ✓ Article word count OK: Advanced Flower Arrangement Basics History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Flower Arrangement Basics
+- ✓ Article word count OK: Trending Flower Arrangement Basics: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Flower Arrangement Basics
+- ✓ Article word count OK: Trending Flower Arrangement Basics Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Flower Arrangement Basics
+- ✓ Article word count OK: Trending Flower Arrangement Basics in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Flower Arrangement Basics
+- ✓ Article word count OK: Common Mistakes in Trending Flower Arrangement Basics
+- ✓ Article word count OK: Trending Flower Arrangement Basics for Beginners
+- ✓ Article word count OK: Advanced Trending Flower Arrangement Basics Techniques
+- ✓ Article word count OK: The Ultimate Guide to Flower Arrangement Basics Tutorials
+- ✓ Article word count OK: Flower Arrangement Basics Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Flower Arrangement Basics Tutorials
+- ✓ Article word count OK: Flower Arrangement Basics Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Flower Arrangement Basics Tutorials
+- ✓ Article word count OK: Flower Arrangement Basics Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Flower Arrangement Basics Tutorials
+- ✓ Article word count OK: Common Mistakes in Flower Arrangement Basics Tutorials
+- ✓ Article word count OK: Flower Arrangement Basics Tutorials for Beginners
+- ✓ Article word count OK: Advanced Flower Arrangement Basics Tutorials Techniques
+- ✓ Ad configuration validated

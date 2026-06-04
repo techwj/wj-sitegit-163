@@ -1,0 +1,59 @@
+{
+  "siteId": "flower-arrangement-basics",
+  "generatedAt": "2026-06-04T11:36:44.317666",
+  "categories": [
+    "beginner-flower-arrangement-basics",
+    "advanced-flower-arrangement-basics",
+    "tips-flower-arrangement-basics",
+    "history-flower-arrangement-basics",
+    "trending-flower-arrangement-basics",
+    "tutorials-flower-arrangement-basics"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-flower-arrangement-basics",
+      "category_name": "Beginner Flower Arrangement Basics"
+    },
+    {
+      "category_slug": "advanced-flower-arrangement-basics",
+      "category_name": "Advanced Flower Arrangement Basics"
+    },
+    {
+      "category_slug": "tips-flower-arrangement-basics",
+      "category_name": "Flower Arrangement Basics Tips"
+    },
+    {
+      "category_slug": "history-flower-arrangement-basics",
+      "category_name": "Flower Arrangement Basics History"
+    },
+    {
+      "category_slug": "trending-flower-arrangement-basics",
+      "category_name": "Trending Flower Arrangement Basics"
+    },
+    {
+      "category_slug": "tutorials-flower-arrangement-basics",
+      "category_name": "Flower Arrangement Basics Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "flower-arrangement-basics",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Flower Arrangement Basics Central",
+    "articles_per_row": 1
+  }
+}
